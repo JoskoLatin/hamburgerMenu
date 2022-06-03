@@ -1,2 +1,2 @@
-# hamburgerMenu
+# HamburgerMenu
 HTML CSS  hamburger menu
